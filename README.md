@@ -1,4 +1,4 @@
-# Organiza-o-de-computadores-2
+# Organização de computadores 2
 # Códigos em assembly MIPS utilizando MARS
 
 O objetivo era realizar 6 exercícios em assembly MIPS utilizando a IDE MARS, porém antes deveria ser feito em c e depois passar para MIPS.
